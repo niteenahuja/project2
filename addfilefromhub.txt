@@ -1,2 +1,4 @@
 added a file from hub
-now trying to execute pull comman and verify this file is bein downloaded in local repository.
+now trying to execute pull command and verify this file is bein downloaded in local repository.
+
+updating few line in downloaded file and then committing changes again.
